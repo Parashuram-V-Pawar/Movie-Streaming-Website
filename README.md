@@ -1,5 +1,3 @@
-![logo](public/images/logo.png)
-
 ## Content
 - [1. Description](#1-description)
 - [2. Installation](#2-installation)
